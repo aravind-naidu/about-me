@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Aravind Naidu
+I am currently pursuing Engineering in Electronics and Telecommunication.
+And, I have always been highly motivated in Machine Learning and AI. I have experience in building Machine Learning models for real world applications as solutions. 
+My main motivation is Research and Development of solutions to be implemented in different dimentions for Social Sood.
 
-You can use the [editor on GitHub](https://github.com/aravind-naidu/about-me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have exquisite management skills developed by managing teams, volunteers, artists and big events like Art Festivals for years in row.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aravind-naidu/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'am a passinate writer and a storyteller. With organizations I'am part of we do theatre shows centralised to promote Languge, Litrature and Arts.
+I have a small blog of my works I write in the name of [The Road via Heart, Soul and the Brain](https://thearavindnaidublog.wordpress.com)
