@@ -10,8 +10,8 @@
 </p>
 
 
-Roy Bennett, once said,
-*"If you have a strong purpose in life, you don't have to be pushed. Your passion will drive you there"*
+> Roy Bennett, once said,
+> *"If you have a strong purpose in life, you don't have to be pushed. Your passion will drive you there"*
 
 And I appreciate the part where my stars were aligned in such a way, that finding my purpose was not a challenging task.
 From a pretty young age, I knew that I wanted to make a positive difference in this world and the people living in it.
